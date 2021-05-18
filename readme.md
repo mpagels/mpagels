@@ -8,10 +8,9 @@
 🌱 At the end of 2018 I got a raspberry pi.\
 💓 I then fell in love with programming, problem solving and daily routines automation and changed my profession (after 15 years of filmmaking) to pursue my new dream creating awesome applications that help people.\
 👀 Check out my github so follow my journey from programming enthusiast to progamming lover.
-
 &nbsp;
 
-#### 📬 Find me at
+### 📬 Find me at
 
 &nbsp;\
 [![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=Github&link=https://github.com/mpagels)](https://github.com/mpagels)
@@ -86,7 +85,6 @@ blockchain, iota, cardano.
 ![IOTA](https://img.shields.io/static/v1?style=for-the-badge&message=IOTA&color=131F37&logo=IOTA&logoColor=FFFFFF&label=)
 
 </details>
-
 &nbsp;
 
 ### I am currently:
@@ -95,7 +93,11 @@ blockchain, iota, cardano.
 ❓ Trying to understand the cryptocurrency IOTA and how to get involved with apps \
 👨‍💻 kindr.kram - An app to help you to keep track of the money your relatives have donated to your baby wish list
 
+&nbsp;
+&nbsp;\
 💬 Let's get in touch and talk about programming and ideas.
+
+&nbsp;
 
 <details>
   <summary><b>💻 &nbsp;Fun fact: On weekends I edit Bundesliga game reviews for German television (ARD Sportschau).</b></summary>

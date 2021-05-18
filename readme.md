@@ -23,6 +23,8 @@
 
 [![Martins github stats](https://github-readme-stats.vercel.app/api?username=mpagels&theme=gradien&count_private=true&show_icons=true&icon_color=343D46&bg_color=bg_color=180,2AD1FE,F47468&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Martins's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mpagels&themegradient&bg_color=bg_color=180,2AD1FE,F47468&title_color=fff&text_color=000)](https://github.com/anuraghazra/github-readme-stats)
+
 <details>
   <summary><b>⚡ &nbsp;Technologies I use every day:</b></summary>
   <br/>
@@ -35,8 +37,10 @@
 ![React](https://img.shields.io/static/v1?style=for-the-badge&message=React&color=222222&logo=React&logoColor=61DAFB&label=)&nbsp;
 ![React Router](https://img.shields.io/static/v1?style=for-the-badge&message=React+Router&color=CA4245&logo=React+Router&logoColor=FFFFFF&label=)&nbsp;
 ![styled-components](https://img.shields.io/static/v1?style=for-the-badge&message=styled-components&color=DB7093&logo=styled-components&logoColor=FFFFFF&label=)&nbsp;
-![Testing Library](https://img.shields.io/static/v1?style=for-the-badge&message=Testing+Library&color=E33332&logo=Testing+Library&logoColor=FFFFFF&label=)&nbsp;\
-![MongoDB](https://img.shields.io/static/v1?style=for-the-badge&message=MongoDB&color=47A248&logo=MongoDB&logoColor=FFFFFF&label=)&nbsp;
+![Cypress](https://img.shields.io/static/v1?style=for-the-badge&message=Cypress&color=17202C&logo=Cypress&logoColor=FFFFFF&label=)&nbsp;
+![Storybook](https://img.shields.io/static/v1?style=for-the-badge&message=Storybook&color=FF4785&logo=Storybook&logoColor=FFFFFF&label=)&nbsp;
+![Testing Library](https://img.shields.io/static/v1?style=for-the-badge&message=Testing+Library&color=E33332&logo=Testing+Library&logoColor=FFFFFF&label=)&nbsp;
+![MongoDB](https://img.shields.io/static/v1?style=for-the-badge&message=MongoDB&color=47A248&logo=MongoDB&logoColor=FFFFFF&label=)&nbsp;\
 ![Python](https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF&label=)&nbsp;
 ![Flask](https://img.shields.io/static/v1?style=for-the-badge&message=Flask&color=000000&logo=Flask&logoColor=FFFFFF&label=)&nbsp;\
 ![Git](https://img.shields.io/static/v1?style=for-the-badge&message=Git&color=F05032&logo=Git&logoColor=FFFFFF&label=)&nbsp;

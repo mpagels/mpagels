@@ -1,4 +1,4 @@
-<h1 align="center">## Hi 👋, I'm Martin </h1>
+<h1 align="center">Hi 👋, I'm Martin </h1>
 
 > Tell me and I forget. Teach me and I remember. Involve me and I learn. – Benjamin Franklin
 > &nbsp;
@@ -86,7 +86,6 @@ blockchain, iota, cardano.
 
 </details>
 &nbsp;
-
 ### I am currently:
 
 📱 Looking into react-native \

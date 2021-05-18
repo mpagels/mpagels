@@ -95,7 +95,6 @@ blockchain, iota, cardano.
 &nbsp;
 &nbsp;\
 💬 Let's get in touch and talk about programming and ideas.
-
 &nbsp;
 
 <details>

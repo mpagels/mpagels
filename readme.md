@@ -1,20 +1,20 @@
-## Hi there
+<h1 align="center">## Hi 👋, I'm Martin </h1>
 
 > Tell me and I forget. Teach me and I remember. Involve me and I learn. – Benjamin Franklin
+> &nbsp;
 
-🧑‍💻 I am Martin Pagels. I'm from Hamburg, Germany and currently working as a Web Developer / Assistent Coach at [neuefische](https://www.neuefische.de/).\
+🧑‍💻 I'm from Hamburg, Germany and currently working as a Web Developer / Assistent Coach at [neuefische](https://www.neuefische.de/).\
 🛠️ I've always had a soft spot for computers and the drive to learn new software.\
 🌱 At the end of 2018 I got a raspberry pi.\
 💓 I then fell in love with programming, problem solving and daily routines automation and changed my profession (after 15 years of filmmaking) to pursue my new dream creating awesome applications that help people.\
 👀 Check out my github so follow my journey from programming enthusiast to progamming lover.
 
 &nbsp;
-&nbsp;
 
 #### 📬 Find me at
 
 &nbsp;\
-[![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/mpagels/)](https://github.com/mpagels/)
+[![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=Github&link=https://github.com/mpagels)](https://github.com/mpagels)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/martin-pagels-658169203/)](https://www.linkedin.com/in/martin-pagels-658169203)
 [![Xing Badge](https://img.shields.io/badge/Xing-026466?style=flat-square&logo=Xing&logoColor=white&link=https://www.xing.com/profile/Martin_Pagels/cv)](https://www.xing.com/profile/Martin_Pagels/cv)
 [![Hackerrank Badge](https://img.shields.io/badge/-Hackerrank-2EC866?style=flat-square&logo=HackerRank&logoColor=white&link=https://www.hackerrank.com/boa_11)](https://www.hackerrank.com/boa_11)
@@ -22,10 +22,10 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:office@martinpagels.de)](mailto:office@martinpagels.de)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=mpagels.mpagels)
 
-[![Martins github stats](https://github-readme-stats.vercel.app/api?username=mpagels&count_private=true&show_icons=true&icon_color=1d3557&bg_color=457b9d&text_color=f1faee&title_color=1d3557)](https://github.com/anuraghazra/github-readme-stats)
+[![Martins github stats](https://github-readme-stats.vercel.app/api?username=mpagels&theme=gradien&count_private=true&show_icons=true&icon_color=343D46&bg_color=bg_color=180,2AD1FE,F47468&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
 
 <details>
-  <summary><b>💻 &nbsp;Technologies I use every day:</b></summary>
+  <summary><b>⚡ &nbsp;Technologies I use every day:</b></summary>
   <br/>
 
 ![HTML5](https://img.shields.io/static/v1?style=for-the-badge&message=HTML5&color=E34F26&logo=HTML5&logoColor=FFFFFF&label=)&nbsp;
@@ -87,16 +87,18 @@ blockchain, iota, cardano.
 
 </details>
 
-- I am currently working on
-- baby app
-- stock app
-- learning react-native
-- learning aws
+&nbsp;
+
+### I am currently:
+
+📱 Looking into react-native \
+❓ Trying to understand the cryptocurrency IOTA and how to get involved with apps \
+👨‍💻 kindr.kram - An app to help you to keep track of the money your relatives have donated to your baby wish list
 
 💬 Let's get in touch and talk about programming and ideas.
 
 <details>
   <summary><b>💻 &nbsp;Fun fact: On weekends I edit Bundesliga game reviews for German television (ARD Sportschau).</b></summary>
+<img src="assets/editing.jpg" />
   <br/>
-
 </details>

@@ -85,7 +85,7 @@ blockchain, iota, cardano.
 ![IOTA](https://img.shields.io/static/v1?style=for-the-badge&message=IOTA&color=131F37&logo=IOTA&logoColor=FFFFFF&label=)
 
 </details>
-&nbsp;
+
 ### I am currently:
 
 📱 Looking into react-native \

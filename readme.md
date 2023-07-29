@@ -7,14 +7,14 @@
 ## About me
 🧑‍💻 I'm from Hamburg, Germany and currently working as a Web Developer / Coach at [neuefische](https://www.neuefische.de/).\
 🛠️ I've always had a soft spot for computers and the drive to learn new software.\
-💡 I love to solve problems with my technical knowledge and enjoy the challenge of finding elegant solutions to complex issues.
+💡 I love to solve problems with my technical knowledge and enjoy the challenge of finding elegant solutions to complex issues.\
 💬 Let's get in touch and talk about programming and ideas.  
 
 ## Tech Stack
-- 🌐 HTML | CSS | JavaScript | React |  Next  | Node.js | Express | Cypress | Storybook
-- 💻 JAVA | Spring Boot | Python | Flask | Docker
-- 🛢 MongoDB
-- 🔧 Git |  Github | Gitlab | Linux | Mac | Win
+🌐 HTML | CSS | JavaScript | React |  Next  | Node.js | Express | Cypress | Storybook\
+💻 JAVA | Spring Boot | Python | Flask | Docker\
+🛢 MongoDB\
+🔧 Git |  Github | Gitlab | Linux | Mac | Win\
 
 ## 📬 Find me at:
 [![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=Github&link=https://github.com/mpagels)](https://github.com/mpagels)

@@ -14,7 +14,7 @@
 🌐 HTML | CSS | JavaScript | React |  Next  | Node.js | Express | Cypress | Storybook\
 💻 JAVA | Spring Boot | Python | Flask | Docker\
 🛢 MongoDB\
-🔧 Git |  Github | Gitlab | Linux | Mac | Win\
+🔧 Git |  Github | Gitlab | Linux | Mac | Win
 
 ## 📬 Find me at:
 [![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=Github&link=https://github.com/mpagels)](https://github.com/mpagels)
